@@ -39,7 +39,7 @@ Start the exporter passing the same `channel_name` used in the python code
 
 It's also possible to configure some values
 
-- `-http.addr`: HTTP address 
+- `-web.listen`: HTTP address 
 - `-redis.addr`: address to the Redis instance
 
 use

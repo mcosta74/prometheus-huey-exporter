@@ -16,7 +16,7 @@ import (
 	"github.com/redis/go-redis/v9"
 	"golang.org/x/exp/slog"
 
-	exporter "github.com/mcosta74/prometheus-huey-exporter"
+	"github.com/mcosta74/prometheus-huey-exporter/exporter"
 )
 
 var (

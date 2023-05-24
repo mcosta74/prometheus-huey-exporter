@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	exporter "github.com/mcosta74/prometheus-huey-exporter"
+	"github.com/mcosta74/prometheus-huey-exporter/exporter"
 )
 
 func TestParseOptions(t *testing.T) {
