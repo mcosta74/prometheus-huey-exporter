@@ -8,15 +8,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- bump go version
-- use builtin log/slog package
+- metric for canceled tasks (thanks to @uhelm)
 
 ### Fixed
   
 ### Changed
-- better parsing of flags
 
-### Removed
+## [0.5.1] - 2023-11-21
+
+### Added
+- bump go version
+- use builtin log/slog package
+
+### Changed
+- better parsing of flags
 
 ## [0.5.0] - 2023-07-27
 
