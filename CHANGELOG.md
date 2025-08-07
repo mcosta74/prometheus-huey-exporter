@@ -8,11 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- metric for canceled tasks (thanks to @uhelm)
 
 ### Fixed
   
 ### Changed
+
+## [0.6.0] - 2025-08-07
+
+### Added
+- metric for canceled tasks (thanks to @uhelm)
 
 ## [0.5.1] - 2023-11-21
 
